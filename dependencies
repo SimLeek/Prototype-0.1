@@ -1,0 +1,13 @@
+//compiled with mingw on windows 7 64-bit
+//libraries:
+glew32
+wxmsw29ud_gl
+opengl32
+glu32
+glut32
+wxmsw29ud_core
+wxbase29ud
+wxexpatd
+
+//dll's/so's
+glew32.dll
